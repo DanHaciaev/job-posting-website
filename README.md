@@ -18,19 +18,19 @@ The website is suitable for quick job search and easy application submission, as
 ## Screenshots
 
 Home page:  
-![Home page](./public/screenshots/main_page.png)
+![Home page](/public/screenshots/main_page.png)
 
 All job listings:  
-![All jobs](./public/screenshots/all_jobs.png)
+![All jobs](/public/screenshots/all_jobs.png)
 
 Specific job page:  
-![Job page](./public/screenshots/job-page.png)
+![Job page](/public/screenshots/job-page.png)
 
 Job posting form:  
-![Post job](./public/screenshots/post_job.png)
+![Post job](/public/screenshots/post_job.png)
 
 Employer dashboard:  
-![Dashboard](./public/screenshots/dashboard.png)
+![Dashboard](/public/screenshots/dashboard.png)
 
 User registration:  
-![Registration](./public/screenshots/registration.png)
+![Registration](/public/screenshots/registration.png)
